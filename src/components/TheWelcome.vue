@@ -149,7 +149,7 @@ import SupportIcon from './icons/IconSupport.vue';
       <SupportIcon />
     </template>
     <template #heading>Support Vue</template>
-
+    <!-- eslint-disable-next-line max-len -->
     As an independent project, Vue relies on community backing for its sustainability. You can help
     us by
     <a
