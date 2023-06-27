@@ -58,6 +58,7 @@ module.exports = {
     "no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 0 }],
     "eol-last": 1,
     "no-prototype-builtins": 0,
+    "no-multi-spaces": "error",
     "function-paren-newline": ['error', 'consistent'],
     indent: ['error', 2, {
       SwitchCase: 1,
